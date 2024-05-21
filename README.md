@@ -1,6 +1,6 @@
 # 日本語 prototype_keyboard_Low64_16mm マニュアル
 
-[!['prototype_keyboard_Low64_16mm']('/image/1920x1080_1.png')]('https://youtu.be/RsThycgCFkI')
+[![prototype_keyboard_Low64_16mm](https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png))](https://youtu.be/RsThycgCFkI)
 
 ![top1](/image/top1.png)
 
