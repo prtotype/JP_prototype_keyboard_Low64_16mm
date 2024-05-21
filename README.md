@@ -1,7 +1,11 @@
 # 日本語 prototype_keyboard_Low64_16mm マニュアル
+
+[!['prototype_keyboard_Low64_16mm']('/image/1920x1080_1.png')]('https://youtu.be/RsThycgCFkI')
+
 ![top1](/image/top1.png)
 
 # USB-C
+![USB-C](/image/2.mp4)
 ![USB-C](/image/usb-c1.jpg)
 TYPE-C ケーブルを採用
 
