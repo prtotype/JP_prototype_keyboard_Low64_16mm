@@ -3,7 +3,7 @@
 [![prototype_keyboard_Low64_16mm](image/top1.png)](https://youtu.be/RsThycgCFkI)
 
 # USB-C
-![USB-C](https://github.com/prtotype/JP_prototype_keyboard_Low64_16mm/raw/main/image/2.mp4)
+<div><video controls src="https://github.com/prtotype/JP_prototype_keyboard_Low64_16mm/raw/main/image/2.mp4" muted="false"></video></div>
 ![USB-C](/image/usb-c1.jpg)
 TYPE-C ケーブルを採用
 
