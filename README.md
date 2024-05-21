@@ -104,6 +104,7 @@ Fキーは左下にあるチェンジキーを長押しすることでオレン�
 手首の負担を最も軽減するフラットデザインを採用しました。キーまでの高さ10.5mmと極めて薄く仕上げております。
 
 Reference
+
 https://damonge.com/post/3773
 
 https://academic.oup.com/ptj/article/83/9/816/2805324
