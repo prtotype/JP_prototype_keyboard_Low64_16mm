@@ -1,6 +1,6 @@
 # 日本語 prototype_keyboard_Low64_16mm マニュアル
 
-[![prototype_keyboard_Low64_16mm](image/top1.png)](https://youtu.be/RsThycgCFkI)
+[![prototype_keyboard_Low64_16mm](image/1920x1080_1.png)](https://youtu.be/RsThycgCFkI)
 
 # USB-C
 
@@ -118,6 +118,7 @@ Fキーは左下にあるチェンジキーを長押しすることでオレン�
 手首の負担を最も軽減するフラットデザインを採用しました。キーまでの高さ10.5mmと極めて薄く仕上げております。
 
 Reference
+
 https://damonge.com/post/3773
 
 https://academic.oup.com/ptj/article/83/9/816/2805324
@@ -126,7 +127,7 @@ https://academic.oup.com/ptj/article/83/9/816/2805324
 ![image](/image/anime8.jpg)
 
 
-[![youtube]()](https://youtu.be/TpDb8O3lrIQ)
+[![youtube](/image/anime8.jpg)](https://youtu.be/TpDb8O3lrIQ)
 
 使わないときはキーボードカバーとして、利用中はパームレストとして利用可能なキーボードカバーを標準装備。
 
